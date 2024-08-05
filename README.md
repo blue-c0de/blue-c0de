@@ -17,16 +17,20 @@ Soy una persona organizada, proactiva y responsable con una pasión profunda por
 
 ### Desarrollador Back-End en INECO (Prácticas)
 **Marzo 2024 - Junio 2024**
-- Desarrollo de funcionalidades y servicios.
-- Gestión de bases de datos.
-- Colaboración con equipos multidisciplinares.
+- Desarrollo de interfaces de usuario, funcionalidades y servicios para aplicaciones web y móviles bajo la supervisión de desarrolladores senior.
 - Despliegue y monitoreo de aplicaciones.
+- Uso de sistemas de control de versiones.
+- Pruebas y aseguramiento de la calidad.
+- Gestión de bases de datos.
 
 ### Técnico de Soporte Informático en MAX (Prácticas)
 **Marzo 2022 - Junio 2022**
+- Configuración y mantenimiento de redes LAN, incluyendo switches, routers y firewalls.
+- Instalación del sistema operativo propio de la empresa, derivado de Linux.
+- Implementación de políticas de seguridad informática.
+- Gestión de back-ups y recuperación de datos.
 - Mantenimiento de equipos informáticos.
-- Asesoramiento de soluciones informáticas.
-- Instalación de sistemas operativos.
+- Soporte técnico a usuarios.
 
 ## 🎓 Educación
 
@@ -41,6 +45,10 @@ Soy una persona organizada, proactiva y responsable con una pasión profunda por
 ### Técnico en Sistemas de Microinformática y Redes
 **2020 - 2022 | IES Juan de la Cierva**
 - Media: 8.09
+
+## Cursos
+### Desarrollador de Soluciones en la Nube de AWS
+**Jul 2024 - Ago 2024 | Experis Academy**
 
 ## 🌍 Idiomas
 - **Español:** Nativo
