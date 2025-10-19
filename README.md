@@ -112,7 +112,6 @@ Continuación de las funciones realizadas durante las prácticas, sumando nuevas
 
 ![Project 1 Status](https://img.shields.io/badge/Project_1-Completed-brightgreen)
 ![Project 2 Status](https://img.shields.io/badge/Project_2-Completed-brightgreen)
-![Project 3 Status](https://img.shields.io/badge/Project_3-Completed-brightgreen)
 
 ## 📌 Información Adicional
 
