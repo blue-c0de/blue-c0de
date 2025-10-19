@@ -7,7 +7,11 @@
 
 ## Sobre mí
 
-Soy una persona organizada, proactiva y responsable con una pasión profunda por la informática. Constantemente busco aprender nuevas tecnologías y enfrentar desafíos que me permitan crecer profesional y personalmente. Mi objetivo es contribuir de manera significativa en proyectos innovadores, siempre con un enfoque en la mejora continua y la adaptación a las demandas del entorno tecnológico en constante evolución.
+Desarrolladora Full Stack con 2 años de experiencia en el desarrollo y despliegue de aplicaciones web, móviles y de escritorio. Actualmente, compagino mi actividad profesional en INECO con mis estudios en Inteligencia Artificial y Computación.
+
+Poseo formación técnica superior en Desarrollo de Aplicaciones Multiplataforma y técnica en Sistemas de Microinformática y Redes, lo que me permite abordar proyectos desde una perspectiva integral, tanto en desarrollo como en soporte técnico y administración de infraestructuras.
+
+Soy trilingüe en español, inglés y alemán, y me destaco por mi capacidad de aprendizaje constante, adaptabilidad y trabajo en equipo.
 
 ## 💻 Tech Stack:
 
@@ -17,15 +21,22 @@ Soy una persona organizada, proactiva y responsable con una pasión profunda por
 ## 🌟 Experiencia Profesional
 
 ### Desarrolladora Full Stack en INECO
-**Septiembre 2024 - Actualidad** (Jornada completa)
-- Continuación en el proyecto, llevando a cabo las mismas actividades de desarrollo y gestión.
-
+**Junio 2024 - Actualidad** (Jornada completa)
+Continuación de las funciones realizadas durante las prácticas, sumando nuevas actividades como:
+- Desarrollo de servicios REST/SOAP y verificación mediante Postman y SoapUI.
+- Integración de la aplicación con otros sistemas y servicios externos.
+- Gestión y despliegue de la aplicación en tres entornos diferenciados (desarrollo, preproducción y producción).
+- Participación activa en el proceso de salida a producción, incluyendo validaciones finales, resolución de incidencias y seguimiento post-despliegue.
+- Monitoreo y análisis de logs mediante Graylog.
+  
 **Marzo 2024 - Junio 2024** (Prácticas)
-- Desarrollo de interfaces de usuario, funcionalidades y servicios para aplicaciones web y móviles bajo la supervisión de desarrolladores senior.
-- Despliegue y monitoreo de aplicaciones.
-- Uso de sistemas de control de versiones.
-- Pruebas y aseguramiento de la calidad.
-- Gestión de bases de datos.
+- Desarrollo y mantenimiento de aplicaciones web tanto backend como frontend.
+- Lanzamiento y pruebas de aplicaciones en entorno local utilizando Apache Tomcat.
+- Realización de consultas, actualizaciones y eliminaciones de datos en bases de datos (SQL).
+- Uso de herramientas de control de versiones como GitLab para la gestión del código.
+- Uso de Jenkins para la integración y despliegue continuo.
+- Seguimiento de tareas y planificación del trabajo mediante JIRA.
+- Colaboración con el resto del equipo para implementar nuevas funcionalidades y mantenimiento de las existentes.
 
 ### Soporte Informático en MAX
 **Marzo 2022 - Junio 2022** (Prácticas)
@@ -40,7 +51,7 @@ Soy una persona organizada, proactiva y responsable con una pasión profunda por
 
 ### Grado de Inteligencia Artificial y Ciencia de Datos
 **2024 - 2027 | Universidad Alfonso X El Sabio**
-- PROXIMAMENTE
+- Media: Primer Curso - 8.0
 
 ### Técnico Superior en Desarrollo de Aplicaciones Multiplataforma
 **2022 - 2024 | IES Juan de la Cierva**
@@ -52,11 +63,29 @@ Soy una persona organizada, proactiva y responsable con una pasión profunda por
 
 ## Cursos
 
+### Programación en Inteligencia Artificial y Big Data
+**Jul 2025 | Grouplance**
+
+### Desarrollo de Aplicaciones Web con Angular - Tomo 2
+**Mar 2025 | Grouplance**
+
+### Google Analytics y Google Metatags
+**Mar 2025 | Grouplance**
+
+### Microsoft Power BI
+**Mar 2025 | INECO**
+
+### Bases de Datos NoSQL: MongoDB Y CouchDB
+**Dic 2024 | CAS Training**
+
+### Desarrollo de Aplicaciones en Python
+**Nov 2024 | Student Ambassador Program with IBM SkillsBuild**
+
 ### Desarrollo de Aplicaciones Web con Angular+
-**Sep 2024 - Oct 2024 | Grouplance**
+**Oct 2024 | Grouplance**
 
 ### Desarrollador de Soluciones en la Nube de AWS
-**Jul 2024 - Ago 2024 | Experis Academy**
+**Ago 2024 | Experis Academy**
 
 ## 🌍 Idiomas
 - **Español:** Nativo
@@ -70,13 +99,7 @@ Soy una persona organizada, proactiva y responsable con una pasión profunda por
 - **Tecnologías Utilizadas:** 
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### Proyecto 2: TicketGenerator
-- **Descripción:** TicketGenerator es un proyecto que comenzó hace dos años con la funcionalidad inicial de imprimir tickets. En la actualidad, estamos trabajando en su desarrollo para facilitar el acceso del usuario a sus clientes más frecuentes a través de una base remota (Firebase). Además, hemos implementado el almacenamiento de servicios en una base de datos local (SQLite) y planeamos almacenar las facturas en la nube, accesibles desde dispositivos móviles mediante una aplicación que estamos desarrollando.
-- **Tecnologías Utilizadas:** ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MVC](https://img.shields.io/badge/MVC-%2307405e.svg?style=for-the-badge&logo=mvc&logoColor=white)
- ![Java Swing](https://img.shields.io/badge/Java_Swing-%2307405e.svg?style=for-the-badge&logo=java&logoColor=white)
- ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-
-### Proyecto 3: SmartOper / SmartOfic
+### Proyecto 2: SmartOper / SmartOfic
 - **Descripción:** SmartOper y SmartOfic son componentes esenciales de un sistema integrado de gestión empresarial (ERP). En SmartOfic, los oficinistas tienen la capacidad de crear, modificar e imprimir incidencias. Estas incidencias son luego asignadas directamente a cada operario en SmartOper por los oficinistas correspondientes. En SmartOper, los operarios tienen la responsabilidad de recibir estas incidencias asignadas, leerlas y resolverlas de manera efectiva. Además, tienen la capacidad de añadir detalles importantes como fechas de inicio y finalización, así como adjuntar pruebas visuales, como fotografías que validen la ejecución del trabajo.
 - **Tecnologías Utilizadas:** 
 ![ERP Software](https://img.shields.io/badge/ERP_Software-%2307405e.svg?style=for-the-badge&logo=erp&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
